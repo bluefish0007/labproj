@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/WebContent/resources/css/templatemo_justified.css=UTF-8
+encoding//src/main/WebContent/resources/css/timeline.css=UTF-8
+encoding//src/main/java/com/mwyq/controller/HotspotsController.java=UTF-8
+encoding//src/main/java/com/mwyq/controller/twitterController.java=UTF-8
+encoding//src/main/java/com/mwyq/controller/weiboController.java=UTF-8
+encoding//src/main/java/com/mwyq/dao/TopicMapper.java=UTF-8
+encoding//src/main/java/com/mwyq/service/NewsService.java=UTF-8
+encoding//src/main/java/com/mwyq/util/translation.java=UTF-8
+encoding//src/main/resources/properties/jdbc.properties=UTF-8
